@@ -1,10 +1,15 @@
 # LazyGF - For Busy Girl Bosses 💝
 
 Are you so busy girl bossing you forgot to text your partner all day?
-is your partner so neglected they are about to dump you for an ai girlfriend? 
+
+Is your partner so neglected they are about to dump you for an ai girlfriend? 
+
 LazyGF is for you!
+
 LazyGF schedules an AI generated picture of you to be sent to your partner daily with a sweet greeting to let them know that you’re thinking about them!
+
 LazyGF can generate images of you in a variety of styles and roles (as a magician! pirate! police officer!)
+
 Customize the greeting to include callbacks to inside jokes in your relationship!
 
 Make sure your loved ones never feel neglected again! LazyGF lets you achieve AI girlfriend performance and consistency without the effort while you’re out girl bossing. Upgrade yourself with AI today!
