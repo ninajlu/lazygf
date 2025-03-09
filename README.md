@@ -15,7 +15,6 @@ Customize the greeting to include callbacks to inside jokes in your relationship
 Make sure your loved ones never feel neglected again! LazyGF lets you achieve AI girlfriend performance and consistency without the effort while you’re out girl bossing. Upgrade yourself with AI today!
 
 LazyGF is open source on GitHub today (uses Flux Lora model on Replicate, Github Actions, and Telegram API and takes about ~10 min to set up!)
-💕Happy Valentine’s Day💕! (and as always happy coding!)
 
 (individual results may vary. LazyGF is not meant to be a substitute for real human connection. Please only use photos of people you have the rights to the likeness of! 🙏)
 
